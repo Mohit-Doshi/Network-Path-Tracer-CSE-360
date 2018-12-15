@@ -1,6 +1,6 @@
 # Network-Path-Tracer-CSE-360
 
-My Introduction to Software Engineering (CSE 360) course in Fall 2018 had a group project component. The project was completed in two phases and managed using version control via Bitbucket and SourceTree.
+My Introduction to Software Engineering (CSE 360) course in Fall 2018 had a group project component. The project was completed in two phases and managed using version control via Bitbucket and SourceTree. All development was done in Eclipse and code written in Java.
 
 Phase 1 of the project required a Java-based GUI (Graphical User Interface) capable of inputting multiple occurences of an activity name, dependencies and duration for a node, then computing all possible paths for the resulting network diagram. The program would have to perform error-checking to detect incomplete paths, incorrect inputs, and network cycles. 
 
